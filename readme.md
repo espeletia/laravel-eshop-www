@@ -1,6 +1,4 @@
-### Autorská práce
-
-#### Název: Vytvoření jednoduché verze e-shopu ve frameworku Laravel
+## Název: Vytvoření jednoduché verze e-shopu ve frameworku Laravel
 
 ---
 
